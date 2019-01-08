@@ -7,7 +7,8 @@ Currently deployed on mainnet at: [0xa5e5be69c923c701ae6ac8f1f5936af3ae610c68](h
 
 | ID | Name | Delegate |
 |:---|:----|:-----|
-| 0 | Card Back | [0xe9813b3ac3fd938d21e47d10987f58914e6ff1fd](https://etherscan.io/address/0xe9813b3ac3fd938d21e47d10987f58914e6ff1fd) |
+| 0 | imToken Card Back | [0xe9813b3ac3fd938d21e47d10987f58914e6ff1fd](https://etherscan.io/address/0xe9813b3ac3fd938d21e47d10987f58914e6ff1fd) |
+| 1 | CK Statue | [0xfaf68b886d48a882134e7a75e083a563ed3af593](0xfaf68b886d48a882134e7a75e083a563ed3af593) |
 
 Metadata will be here: https://api.godsunchained.com/collectable/{id}.
 
